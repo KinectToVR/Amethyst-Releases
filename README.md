@@ -13,3 +13,7 @@ This repository holds the published releases of Amethyst
 ### Reports: 
 - __This is still very WIP__, things will be broken and fixed on daily basis.
 - Go to discord and post log files from ```%AppData%/KinectToVR/logs```
+
+### Source:
+In the current app's state, I've decided to hide the source until the app comes finished.<br>
+If you really want it for some reason though, please write to us on the KinectToVR discord.
