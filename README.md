@@ -3,7 +3,7 @@ This repository holds the published releases of Amethyst
 
 ### Deployment requirements:
 - Install [VCRedist 2022](https://aka.ms/vs/17/release/vc_redist.x64.exe)
-- Install the [Windows App SDK Runtime](https://aka.ms/windowsappsdk/1.0/1.0.1/windowsappruntimeinstall-1.0.1-x64.exe)
+- Install the latest [Windows App SDK Runtime](https://docs.microsoft.com/en-us/windows/apps/windows-app-sdk/downloads)
 
 ### Setup for testing:
 - Delete **everything** in `C:/K2EX` (or wherever is it installed)
