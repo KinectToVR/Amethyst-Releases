@@ -4,8 +4,9 @@ This repository holds the published releases of Amethyst
 ## Setup
 ### Pre-requisites (You need these to run the app):
 - Install [VCRedist 2022](https://aka.ms/vs/17/release/vc_redist.x64.exe)
-- Install [.NET 6 Desktop](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.4-windows-x64-installer)
-- Install the latest [Windows App SDK Runtime](https://docs.microsoft.com/en-us/windows/apps/windows-app-sdk/downloads)
+
+Releases older than `1.0.2.4` require a manual install of  
+[.NET 6 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.4-windows-x64-installer) and [Windows App SDK Runtime](https://docs.microsoft.com/en-us/windows/apps/windows-app-sdk/downloads)
 
 ### Actually doing the thing:
 - **Turn off the K2EX/KinectToVR driver** in SteamVR add-ons  
@@ -27,20 +28,21 @@ This repository holds the published releases of Amethyst
  - Once Amethyst is launched, Click re-register SteamVR driver and follow the prompts.
  
 ### It's unsupported but please help me anyway!!!
-Before asking for help with unsupported beta release software, try these:  
-#### The app doesn't start after updating it.
-**Update the Windows App SDK Runtime** the app is built against the latest version (except in cases of build failure) You can always refer to the release "changelog" to know which version is used.
 
 #### My SteamVR gives me Error 203 and won't start no matter what I do.
-You have the Amethyst and K2EX drivers **enabled at the same time**. They use the same logging library and conflict with each other on startup, causing the entirety of the SteamVR backend to crash.  
-Close SteamVR, then **either delete or edit** `%localappdata%\openvr\openvrpaths.vrpath` if your file says null in it after you edited it, go learn JSON, and WTF are you doing on GitHub????
+You have the Amethyst and K2EX drivers **enabled at the same time**.  
+They use the same logging library and conflict with each other on startup, causing the entirety of the SteamVR backend to crash.  
+Close SteamVR, then **either delete or edit** `%localappdata%\openvr\openvrpaths.vrpath`  
+if your file says null in it after you edited it, go learn JSON, and WTF are you doing on GitHub????
 
 #### I have some other unrelated issue.
-Unless you're actually braindead, you may possibly have run into a bug, reporting those is important to building a stable application for release. See just below on how to report bugs.
+Unless you're actually braindead, you may possibly have run into a bug,  
+reporting those is important to building a stable application for release. 
+See just below on how to report bugs.
 
 ### Reports: 
-- __This is still very WIP__, things will be broken and fixed on daily basis.
-- Go to discord and post log files from ```%AppData%/KinectToVR/logs```
+- <ins>Record the issue</ins> (or at least describe it as well as you can)
+- Send us the log files from ```%AppData%/Amethyst/logs```
 
 ### Source:
 In the current app's state, I've decided to hide the source until the app comes finished.<br>
