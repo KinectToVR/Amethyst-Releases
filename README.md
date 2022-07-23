@@ -1,6 +1,21 @@
 # Amethyst-Releases
 This repository holds the published releases of Amethyst
 
+<details>
+<summary><span style="font-weight:600;">In-App Screenshots</span></summary>
+<img alt="Amethyst General Tab" src="https://imgur.com/rsotr0K.png">
+<img alt="Amethyst Settings Tab" src="https://imgur.com/iyyLi5L.png"> 
+<img alt="Amethyst Devices Tab" src="https://imgur.com/GntYVBe.png">
+<img alt="Amethyst Settings Tab" src="https://imgur.com/OGyK2ln.png"> 
+</details>
+
+<details>
+<summary><span style="font-weight:600;">Extra/Fun Stuff</span></summary>
+<img alt="Amethyst ExtFlip" src="https://imgur.com/qsnB2hO.png">
+<img alt="Amethyst Okashi Tab" src="https://imgur.com/Mi7Ahw3.png">
+</details>
+</br>
+
 ## Setup
 ### Pre-requisites (You need these to run the app):
 - Install [VCRedist 2022](https://aka.ms/vs/17/release/vc_redist.x64.exe)
@@ -46,4 +61,4 @@ See just below on how to report bugs.
 
 ### Source:
 In the current app's state, I've decided to hide the source until the app comes finished.<br>
-If you really want it for some reason though, please write to us on the KinectToVR discord.
+If you really want it for some reason though, please write to us on the K2VR discord.
