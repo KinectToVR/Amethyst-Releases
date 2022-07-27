@@ -1,10 +1,9 @@
 # Amethyst-Releases
 ### **[<img src="https://user-images.githubusercontent.com/8508676/181382203-946594a8-64d4-4861-bad8-f1f2c02262b2.png">](#setup)**
 This repository holds the published releases of Amethyst
-
-<details open>
-<summary><span style="font-weight:600;">In-App Screenshots</span></summary>
 <img alt="Amethyst General Tab" src="https://imgur.com/rsotr0K.png">
+<details>
+<summary><span style="font-weight:600;">More Screenshots</span></summary>
 <img alt="Amethyst Settings Tab" src="https://imgur.com/iyyLi5L.png"> 
 <img alt="Amethyst Devices Tab" src="https://imgur.com/GntYVBe.png">
 <img alt="Amethyst Settings Tab" src="https://imgur.com/OGyK2ln.png"> 
