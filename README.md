@@ -1,18 +1,18 @@
 # Amethyst-Releases
 ### **[<img src="https://user-images.githubusercontent.com/8508676/181382203-946594a8-64d4-4861-bad8-f1f2c02262b2.png">](#setup)**
 This repository holds the published releases of Amethyst
-<img alt="Amethyst General Tab" src="https://imgur.com/rsotr0K.png">
+<img alt="Amethyst General Tab" src="https://imgur.com/6lUXGF4.png">
 <details>
 <summary><span style="font-weight:600;">More Screenshots</span></summary>
-<img alt="Amethyst Settings Tab" src="https://imgur.com/iyyLi5L.png"> 
-<img alt="Amethyst Devices Tab" src="https://imgur.com/GntYVBe.png">
-<img alt="Amethyst Settings Tab" src="https://imgur.com/OGyK2ln.png"> 
+<img alt="Amethyst Settings Tab" src="https://imgur.com/RUSrk8Y.png"> 
+<img alt="Amethyst Devices Tab" src="https://imgur.com/xKhcCOJ.png">
+<img alt="Amethyst Info Tab" src="https://imgur.com/EqRjvvV.png"> 
 </details>
 
 <details>
 <summary><span style="font-weight:600;">Extra/Fun Stuff</span></summary>
-<img alt="Amethyst ExtFlip" src="https://imgur.com/qsnB2hO.png">
-<img alt="Amethyst Okashi Tab" src="https://imgur.com/Mi7Ahw3.png">
+<img alt="Amethyst ExtFlip" src="https://imgur.com/elMhheW.png">
+<img alt="Amethyst Okashi Tab" src="https://imgur.com/TOsrvYF.png">
 </details>
 </br>
 
