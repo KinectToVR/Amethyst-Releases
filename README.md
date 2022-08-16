@@ -1,12 +1,13 @@
 # Amethyst-Releases
 ### **[<img src="https://user-images.githubusercontent.com/8508676/181382203-946594a8-64d4-4861-bad8-f1f2c02262b2.png">](#setup)**
 This repository holds the published releases of Amethyst
-<img alt="Amethyst General Tab" src="https://imgur.com/6lUXGF4.png">
+
+<img alt="Amethyst General Tab" src="https://imgur.com/GaGLpTw.png">
 <details>
 <summary><span style="font-weight:600;">More Screenshots</span></summary>
-<img alt="Amethyst Settings Tab" src="https://imgur.com/RUSrk8Y.png"> 
-<img alt="Amethyst Devices Tab" src="https://imgur.com/xKhcCOJ.png">
-<img alt="Amethyst Info Tab" src="https://imgur.com/EqRjvvV.png"> 
+<img alt="Amethyst Settings Tab" src="https://imgur.com/XoQg7HA.png"> 
+<img alt="Amethyst Devices Tab" src="https://imgur.com/33Co3ui.png">
+<img alt="Amethyst Info Tab" src="https://imgur.com/zAuNMdh.png"> 
 </details>
 
 <details>
@@ -25,20 +26,6 @@ Releases older than `1.0.2.4` require a manual install of
 
 ### Actually doing the thing:
 
- - **Turn off the K2EX/KinectToVR driver** in SteamVR add-ons  
- - ![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/8508676/181381168-62bf00e4-5a2e-46c7-8970-cf841793fa56.gif)  
-  If you don't do this, SteamVR will crash on launch, blocking your access to the add-ons list, and you would need to edit `%localappdata%\openvr\openvrpaths.vrpath` by hand to remove the KinectToVR driver.  
-  <details>
-  <summary><span style="font-weight:600;">If you care to know why</span></summary>
-  This happens because glog (the logging library used in the K2EX driver and in the Amethyst driver alike)
-  gets loaded into the OpenVR assembly, but it can only be loaded once. So when the K2EX driver tries to
-  load after Amethyst's. Everything explodes.
-  
-  Considering this, if you rename the name entry in the vrdrivermanifest for the K2EX driver so it's
-  alphabetically before Amethyst, like `0kinecttovr` then Amethyst will load second and take over the
-  existing glog instance.
- </details>
- 
  - **Download Amethyst-Release-XXXXXX.zip** from the [latest release](https://github.com/KinectToVR/Amethyst-Releases/releases/latest).
  - **Create a new folder**, e.g. `C:\Amethyst`
  - **Extract the ZIP** into that new folder.  
