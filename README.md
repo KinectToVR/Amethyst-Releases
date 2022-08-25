@@ -2,23 +2,24 @@
 ### **[<img src="https://user-images.githubusercontent.com/8508676/181382203-946594a8-64d4-4861-bad8-f1f2c02262b2.png">](#setup)**
 This repository holds the published releases of Amethyst
 
-<img alt="Amethyst General Tab" src="https://imgur.com/GaGLpTw.png">
+<img alt="Amethyst General Tab" src="https://imgur.com/kR9JfPx.png">
 <details>
 <summary><span style="font-weight:600;">More Screenshots</span></summary>
-<img alt="Amethyst Settings Tab" src="https://imgur.com/XoQg7HA.png"> 
-<img alt="Amethyst Devices Tab" src="https://imgur.com/33Co3ui.png">
-<img alt="Amethyst Info Tab" src="https://imgur.com/zAuNMdh.png"> 
+<img alt="Amethyst Settings Tab" src="https://imgur.com/ZwbH9Td.png"> 
+<img alt="Amethyst Devices Tab" src="https://imgur.com/EARzPls.png">
+<img alt="Amethyst Info Tab" src="https://imgur.com/mUyJ8Id.png"> 
 </details>
 
 <details>
 <summary><span style="font-weight:600;">Extra/Fun Stuff</span></summary>
-<img alt="Amethyst ExtFlip" src="https://imgur.com/elMhheW.png">
-<img alt="Amethyst Okashi Tab" src="https://imgur.com/TOsrvYF.png">
+<img alt="Amethyst ExtFlip" src="https://imgur.com/MSCx6IU.png">
+<img alt="Amethyst Help" src="https://imgur.com/vFgDmMt.png">
 </details>
 </br>
 
 ## Setup
 ### Pre-requisites (You need these to run the app):
+- Windows 20H2 or newer (+any win11 is fine)
 - Install [VCRedist 2022](https://aka.ms/vs/17/release/vc_redist.x64.exe)
 
 Releases older than `1.0.2.4` require a manual install of  
