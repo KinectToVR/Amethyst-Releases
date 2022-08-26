@@ -1,5 +1,5 @@
 # Amethyst-Releases
-### **[<img src="https://user-images.githubusercontent.com/8508676/181382203-946594a8-64d4-4861-bad8-f1f2c02262b2.png">](#setup)**
+### **[<img src="https://user-images.githubusercontent.com/8508676/186942339-b4aa4022-1d6f-48e1-bb60-c36277926e9f.png">](#setup)**
 This repository holds the published releases of Amethyst
 
 <img alt="Amethyst General Tab" src="https://imgur.com/kR9JfPx.png">
