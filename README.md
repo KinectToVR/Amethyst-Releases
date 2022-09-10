@@ -27,6 +27,13 @@ Releases older than `1.0.2.4` require a manual install of
 
 ### Actually doing the thing:
 
+#### USE THE INSTALLER PLEASE (Still in preview, expect bugs, and report them)
+Click this badge to get to Installer Preview downloads.
+
+[<img style="width:400px; height:auto;" src="https://user-images.githubusercontent.com/8508676/189486639-7a845f9a-2ac9-4271-a67f-b2c087eaea07.png">](https://github.com/KinectToVR/Amethyst-Installer-Releases/releases/latest)
+
+#### Manual Instructions
+
  - **Download Amethyst-Release-XXXXXX.zip** from the [latest release](https://github.com/KinectToVR/Amethyst-Releases/releases/latest).
  - **Create a new folder**, e.g. `C:\Amethyst`
  - **Extract the ZIP** into that new folder.  
