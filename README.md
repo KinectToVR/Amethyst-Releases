@@ -1,4 +1,8 @@
 # Amethyst-Releases
+Amethyst is a Windows application for using various devices for body tracking in virtual reality (Specifically in SteamVR). It can be [extended with user-made plugins](https://github.com/KinectToVR/K2TrackingDevice-Samples) to support any device you wish.
+
+This is a rewrite from the ground up, it is *not* based on KinectToVR/K2EX. It is a whole new app that doesn't carry the legacy baggage of K2EX. We were able to fix numerous bugs and streamline the experience. We hope you will enjoy it. If you like what you see and you wish to support future development, you can throw money at us with the [<img style="display:inline; height:26px;" src="https://user-images.githubusercontent.com/8508676/189487326-eff20178-77a2-4ea4-9798-d389e53501e4.png">](https://opencollective.com/k2vr) button.
+  (We won't force you, though every expense is currently out of pocket.)
 ### **[<img src="https://user-images.githubusercontent.com/8508676/186942339-b4aa4022-1d6f-48e1-bb60-c36277926e9f.png">](#setup)**
 This repository holds the published releases of Amethyst
 
