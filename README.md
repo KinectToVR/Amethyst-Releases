@@ -21,7 +21,8 @@ This page will help you understand how to localize (translate text resource file
 All resources are combined into a single JSON file with keys and values.  
 When editing multiline keys, remember that newline inside the string is a `\n`.  
 (The same goes for tabs: `\t`, you'll get used to it... maybe. Or just use a GUI)  
-**Important!** If you see a space at the start/end of a string, please keep it there!
+
+> **Important!** If you see a space at the start/end of a string, please keep it there!
 
 ## Preparations
 In the folder you have Amethyst installed (where the `Amethyst.exe` is)  
@@ -29,6 +30,12 @@ please find a folder named `Assets` and then inside it, a one named `Strings`.
 Inside that folder, you'll find all the current language resources:
 - `**.json` - a single translation file (like `en.json`, `de.json`...)
 - `locales.json` - enumeration of the currently availble languages
+
+> Note: Each device has the same file tree inside its root path.  
+> For devices' strings, look in in `[device]/resources/Strings/`
+
+> As you may have noticed already, the file tree in this repo matches  
+> Amethyst's file string tree! It may take a while to get used to, though.
 
 To get started, copy-paste `en.json` and rename it to your language, e.g. `ja.json`.  
 Get language code by cropping its [`LCID` tag](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-oe376/6c085406-a698-4e12-9d4d-c3b0ee3dbc4a) before `-`, e.g. Czech `cs-CZ` → `cs`.  
@@ -87,7 +94,8 @@ After
 ## Localization
 Now that you've added your language to the global enumeration, you can start localizing.  
 Replace the resource string in each key with the translated one. (the one on the right)  
-**Don't translate keys!** (The ones on the left, with many `/` (slash) characters inside them)  
+
+> **Don't translate keys!** (The ones on the left, with many `/` (slash) characters inside them)  
   
 Sample localization before/after:
 ```jsonc
@@ -109,7 +117,8 @@ Each time you make changes (e.g. save) your translation file, Amethyst will auto
 reload it and apply the pending changes to the user interface. (it may blink or lag a little)  
   
 This allows for adding, editing and fixing your resources live - while Amethyst is running.  
-*Note: only Amethyst supports it for now, neither the Crash Handler nor the Installer do RN.*
+
+> *Note: only Amethyst supports it for now, neither the Crash Handler nor the Installer do RN.*
 
 # Localization FAQ
 
