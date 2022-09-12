@@ -1,10 +1,12 @@
 # Amethyst-Releases
+[<img style="width:300px; height:auto;" src="https://user-images.githubusercontent.com/8508676/189486639-7a845f9a-2ac9-4271-a67f-b2c087eaea07.png">](https://github.com/KinectToVR/Amethyst-Installer-Releases/releases/latest/download/Amethyst-Installer.exe)  
+**Click above to download. ([If you can't download/start it](https://download.getaughip.com/bill-gates.png))  
+Scroll further down for manual instructions.**  
+
 Amethyst is a Windows application for using various devices for body tracking in virtual reality (Specifically in SteamVR). It can be [extended with user-made plugins](https://github.com/KinectToVR/K2TrackingDevice-Samples) to support any device you wish.
 
 This is a rewrite from the ground up, it is *not* based on KinectToVR/K2EX. It is a whole new app that doesn't carry the legacy baggage of K2EX. We were able to fix numerous bugs and streamline the experience. We hope you will enjoy it. If you like what you see and you wish to support future development, you can throw money at us with the [<img style="display:inline; height:26px;" src="https://user-images.githubusercontent.com/8508676/189487326-eff20178-77a2-4ea4-9798-d389e53501e4.png">](https://opencollective.com/k2vr) button.
   (We won't force you, though every expense is currently out of pocket.)
-### **[<img src="https://user-images.githubusercontent.com/8508676/186942339-b4aa4022-1d6f-48e1-bb60-c36277926e9f.png">](#setup)**
-This repository holds the published releases of Amethyst
 
 <img alt="Amethyst General Tab" src="https://imgur.com/kR9JfPx.png">
 <details>
@@ -21,7 +23,7 @@ This repository holds the published releases of Amethyst
 </details>
 </br>
 
-## Setup
+## Setup (ignore if using installer)
 ### Pre-requisites (You need these to run the app):
 - Windows 20H2 or newer (+any win11 is fine)
 - Install [VCRedist 2022](https://aka.ms/vs/17/release/vc_redist.x64.exe)
@@ -30,13 +32,6 @@ Releases older than `1.0.2.4` require a manual install of
 [.NET 6 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.4-windows-x64-installer) and [Windows App SDK Runtime](https://docs.microsoft.com/en-us/windows/apps/windows-app-sdk/downloads)
 
 ### Actually doing the thing:
-
-#### USE THE INSTALLER PLEASE (Still in preview, expect bugs, and report them)
-Click this badge to get to Installer Preview downloads.
-
-[<img style="width:400px; height:auto;" src="https://user-images.githubusercontent.com/8508676/189486639-7a845f9a-2ac9-4271-a67f-b2c087eaea07.png">](https://github.com/KinectToVR/Amethyst-Installer-Releases/releases/latest)
-
-#### Manual Instructions
 
  - **Download Amethyst-Release-XXXXXX.zip** from the [latest release](https://github.com/KinectToVR/Amethyst-Releases/releases/latest).
  - **Create a new folder**, e.g. `C:\Amethyst`
