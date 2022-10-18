@@ -1,7 +1,8 @@
 # Amethyst-Releases
-[<img style="width:300px; height:auto;" src="https://user-images.githubusercontent.com/8508676/189486639-7a845f9a-2ac9-4271-a67f-b2c087eaea07.png">](https://github.com/KinectToVR/Amethyst-Installer-Releases/releases/latest/download/Amethyst-Installer.exe)  
-**Click above to download. ([If you can't download/start it](https://download.getaughip.com/bill-gates.png))  
-Scroll further down for manual instructions.**  
+[<img style="width:500px; height:auto;" src="https://user-images.githubusercontent.com/8508676/189486639-7a845f9a-2ac9-4271-a67f-b2c087eaea07.png">](https://github.com/KinectToVR/Amethyst-Installer-Releases/releases/latest/download/Amethyst-Installer.exe)  
+### Click above to download the installer, please just use the installer, please.
+### ([If you can't download/start it](https://download.getaughip.com/bill-gates.png))  
+**Scroll further down for manual instructions.**  
 
 Amethyst is a Windows application for using various devices for body tracking in virtual reality (Specifically in SteamVR). It can be [extended with user-made plugins](https://github.com/KinectToVR/K2TrackingDevice-Samples) to support any device you wish.
 
