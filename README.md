@@ -9,18 +9,27 @@ Amethyst is a Windows application for using various devices for body tracking in
 This is a rewrite from the ground up, it is *not* based on KinectToVR/K2EX. It is a whole new app that doesn't carry the legacy baggage of K2EX. We were able to fix numerous bugs and streamline the experience. We hope you will enjoy it. If you like what you see and you wish to support future development, you can throw money at us with the [<img style="display:inline; height:26px;" src="https://user-images.githubusercontent.com/8508676/189487326-eff20178-77a2-4ea4-9798-d389e53501e4.png">](https://opencollective.com/k2vr) button.
   (We won't force you, though every expense is currently out of pocket.)
 
-<img alt="Amethyst General Tab" src="https://imgur.com/kR9JfPx.png">
+<img alt="Amethyst General Tab" src="https://imgur.com/aQVyfZL.png">
 <details>
 <summary><span style="font-weight:600;">More Screenshots</span></summary>
-<img alt="Amethyst Settings Tab" src="https://imgur.com/ZwbH9Td.png"> 
-<img alt="Amethyst Devices Tab" src="https://imgur.com/EARzPls.png">
-<img alt="Amethyst Info Tab" src="https://imgur.com/mUyJ8Id.png"> 
+<img alt="Amethyst Settings Tab" src="https://imgur.com/Yt6y7Jk.png"> 
+<img alt="Amethyst Devices Tab" src="https://imgur.com/L1CYeQP.png">
+<img alt="Amethyst Info Tab" src="https://imgur.com/z0DRI9i.png"> 
+<img alt="Amethyst Plugins Tab" src="https://imgur.com/kaVFmDg.png"> 
+</details>
+
+<details>
+<summary><span style="font-weight:600;">Related Components</span></summary>
+<img alt="Amethyst ExtFlip" src="https://imgur.com/5DD0ma6.png">
+<img alt="Amethyst Extra Trackers" src="https://imgur.com/nnAo4yP.png">
+<img alt="Amethyst Tracking Output" src="https://imgur.com/GAXCs1n.png">
+<img alt="Amethyst Store Sample" src="https://imgur.com/4BiedL8.png">
 </details>
 
 <details>
 <summary><span style="font-weight:600;">Extra/Fun Stuff</span></summary>
-<img alt="Amethyst ExtFlip" src="https://imgur.com/MSCx6IU.png">
-<img alt="Amethyst Help" src="https://imgur.com/vFgDmMt.png">
+<img alt="Amethyst Help" src="https://imgur.com/MlJcnIp.png">
+<img alt="Amethyst Freeze" src="https://imgur.com/NbIYAog.png">
 </details>
 </br>
 
