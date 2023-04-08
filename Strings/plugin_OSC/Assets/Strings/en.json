@@ -1,0 +1,8 @@
+{
+  "/Settings/Labels/IPAddress": "IP Address:",
+  "/Settings/Labels/UDPPort": "UDP Port:",
+  "/Settings/Labels/TCPPort": "TCP Port:",
+  "/Statuses/Success": "Success!\nS_OK\nEverything's good!",
+  "/Statuses/InitException": "Fatal exception!\nE_EXCEPTION\nSomething went wrong! Message: {0}",
+  "/Statuses/Unknown": "Connection error!\nE_NOT_STARTED\nPress the 'Refresh' button to start the server up."
+}

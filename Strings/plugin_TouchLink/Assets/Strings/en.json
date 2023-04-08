@@ -1,0 +1,8 @@
+{
+    "/Plugins/TouchLink/Statuses/NotStarted": "Not started yet!\nE_NOT_STARTED\nClick 'Refresh' to initialize this device!",
+    "/Plugins/TouchLink/Statuses/Success": "Success!\nS_OK\nEverything's good!",
+    "/Plugins/TouchLink/Statuses/InitFailure": "Init failure!\nE_INIT_FAILURE\nCheck if your Oculus HMD is connected and dash is started properly!",
+    "/Plugins/TouchLink/Settings/Labels/Prediction": "Extra prediction [ms]:",
+    "/Plugins/TouchLink/Settings/Labels/KeepAlive": "Auto-keep Oculus alive:",
+    "/Plugins/TouchLink/Settings/Labels/ReduceRes": "Reduce display resolution:"
+}

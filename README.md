@@ -16,7 +16,7 @@ If you really want it for some reason though, please write to us on the K2VR dis
 This page will help you understand how to localize (translate text resource files for):
 - Amethyst (Desktop App)
 - Amethyst's Crash Handler
-- Amethyst's Devices/Plugins
+- Official Amethyst Plugins
 
 All resources are combined into a single JSON file with keys and values.  
 When editing multiline keys, remember that newline inside the string is a `\n`.  
@@ -117,8 +117,7 @@ Each time you make changes (e.g. save) your translation file, Amethyst will auto
 reload it and apply the pending changes to the user interface. (it may blink or lag a little)  
   
 This allows for adding, editing and fixing your resources live - while Amethyst is running.  
-
-> *Note: only Amethyst supports it for now, neither the Crash Handler nor the Installer do RN.*
+Note the same goes for all devices loaded by Amethyst, and the Amethyst Installer itself.
 
 # Localization FAQ
 
