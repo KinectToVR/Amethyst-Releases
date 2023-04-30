@@ -1,20 +1,77 @@
 {
-    "/Plugins/OWO/Statuses/Success": "Erfolg!\nS_OK\nAlles ist gut!",
-    "/Plugins/OWO/Statuses/ConnectionDead": "Verbindungsfehler!\nE_CONNECTION_DEAD\nÜberprüfe ob die owoTrackVR-App läuft, funktioniert und verbunden ist.",
-    "/Plugins/OWO/Statuses/NoData": "Verbindungsfehler!\nE_NO_DATA\nÜberprüfe ob die owoTrackVR-App läuft, funktioniert und verbunden ist.",
-    "/Plugins/OWO/Statuses/InitFailure": "Listener-Start fehlgeschlagen!\nE_INIT_FAILED\nDer Server konnte nicht gestartet werden, prüfen Sie die Logs.",
-    "/Plugins/OWO/Statuses/NoPorts": "Port-Einrichtung fehlgeschlagen!\nE_PORTS_TAKEN\nDer Port ist nicht verfügbar! (Schließen Sie andere owoTrack-bezogene Apps)",
-    "/Plugins/OWO/Statuses/NotStarted": "Verbindungsfehler!\nE_NOT_STARTED\nKlicke auf „Aktualisieren“ um den Listener des Servers zu starten.",
-    "/Plugins/OWO/Settings/Labels/LocalIP/One": "Deine Lokale IP:",
-    "/Plugins/OWO/Settings/Labels/LocalIP/Multiple": "Einer deiner lokalen IPs:",
-    "/Plugins/OWO/Settings/Labels/Port": "Verbindungsport:",
-    "/Plugins/OWO/Settings/Labels/HipHeight": "Hüfthöhe:",
-    "/Plugins/OWO/Settings/Notices/NotStarted": "Starte den Server bitte zuerst!",
-    "/Plugins/OWO/Settings/Notices/NotConnected": "Verbinde dich mit deinem Telefon!",
-    "/Plugins/OWO/Settings/Notices/Still": "Bitte bleib noch ein bisschen so...",
-    "/Plugins/OWO/Settings/Notices/Failure": "Server konnte nicht gestartet werden!",
-    "/Plugins/OWO/Settings/Instructions/Forward": "Halte dein Telefon in die gleiche Richtung\nwie dein VR-Headset. Bildschirm sollte nach oben zeigen.",
-    "/Plugins/OWO/Settings/Instructions/Down": "Befestigen Sie Ihr Telefon jetzt an Ihrer Taille,\nstehen Sie gerade in natürlichen Vorwärtsposition...",
-    "/Plugins/OWO/Settings/Buttons/Calibration/Forward": "Vorwärts kalibrieren",
-    "/Plugins/OWO/Settings/Buttons/Calibration/Down": "Rückwärts kalibrieren"
+  "language": "de",
+  "messages": [
+    {
+      "id": "/Plugins/OWO/Statuses/Success",
+      "translation": "Erfolg!\nS_OK\nAlles ist gut!"
+    },
+    {
+      "id": "/Plugins/OWO/Statuses/ConnectionDead",
+      "translation": "Verbindungsfehler!\nE_CONNECTION_DEAD\nÜberprüfe ob die owoTrackVR-App läuft, funktioniert und verbunden ist."
+    },
+    {
+      "id": "/Plugins/OWO/Statuses/NoData",
+      "translation": "Verbindungsfehler!\nE_NO_DATA\nÜberprüfe ob die owoTrackVR-App läuft, funktioniert und verbunden ist."
+    },
+    {
+      "id": "/Plugins/OWO/Statuses/InitFailure",
+      "translation": "Listener-Start fehlgeschlagen!\nE_INIT_FAILED\nDer Server konnte nicht gestartet werden, prüfen Sie die Logs."
+    },
+    {
+      "id": "/Plugins/OWO/Statuses/NoPorts",
+      "translation": "Port-Einrichtung fehlgeschlagen!\nE_PORTS_TAKEN\nDer Port ist nicht verfügbar! (Schließen Sie andere owoTrack-bezogene Apps)"
+    },
+    {
+      "id": "/Plugins/OWO/Statuses/NotStarted",
+      "translation": "Verbindungsfehler!\nE_NOT_STARTED\nKlicke auf „Aktualisieren“ um den Listener des Servers zu starten."
+    },
+    {
+      "id": "/Plugins/OWO/Settings/Labels/LocalIP/One",
+      "translation": "Deine Lokale IP:"
+    },
+    {
+      "id": "/Plugins/OWO/Settings/Labels/LocalIP/Multiple",
+      "translation": "Einer deiner lokalen IPs:"
+    },
+    {
+      "id": "/Plugins/OWO/Settings/Labels/Port",
+      "translation": "Verbindungsport:"
+    },
+    {
+      "id": "/Plugins/OWO/Settings/Labels/HipHeight",
+      "translation": "Hüfthöhe:"
+    },
+    {
+      "id": "/Plugins/OWO/Settings/Notices/NotStarted",
+      "translation": "Starte den Server bitte zuerst!"
+    },
+    {
+      "id": "/Plugins/OWO/Settings/Notices/NotConnected",
+      "translation": "Verbinde dich mit deinem Telefon!"
+    },
+    {
+      "id": "/Plugins/OWO/Settings/Notices/Still",
+      "translation": "Bitte bleib noch ein bisschen so..."
+    },
+    {
+      "id": "/Plugins/OWO/Settings/Notices/Failure",
+      "translation": "Server konnte nicht gestartet werden!"
+    },
+    {
+      "id": "/Plugins/OWO/Settings/Instructions/Forward",
+      "translation": "Halte dein Telefon in die gleiche Richtung\nwie dein VR-Headset. Bildschirm sollte nach oben zeigen."
+    },
+    {
+      "id": "/Plugins/OWO/Settings/Instructions/Down",
+      "translation": "Befestigen Sie Ihr Telefon jetzt an Ihrer Taille,\nstehen Sie gerade in natürlichen Vorwärtsposition..."
+    },
+    {
+      "id": "/Plugins/OWO/Settings/Buttons/Calibration/Forward",
+      "translation": "Vorwärts kalibrieren"
+    },
+    {
+      "id": "/Plugins/OWO/Settings/Buttons/Calibration/Down",
+      "translation": "Rückwärts kalibrieren"
+    }
+  ]
 }

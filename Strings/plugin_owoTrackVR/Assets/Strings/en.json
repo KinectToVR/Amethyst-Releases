@@ -1,20 +1,77 @@
 {
-    "/Plugins/OWO/Statuses/Success": "Success!\nS_OK\nEverything's good!",
-    "/Plugins/OWO/Statuses/ConnectionDead": "Connection error!\nE_CONNECTION_DEAD\nCheck if owoTrackVR app is running, working and connected.",
-    "/Plugins/OWO/Statuses/NoData": "Connection error!\nE_NO_DATA\nCheck if owoTrackVR app is running, working and connected.",
-    "/Plugins/OWO/Statuses/InitFailure": "Listener startup fail!\nE_INIT_FAILED\nThe data server failed to start, check logs and port number.",
-    "/Plugins/OWO/Statuses/NoPorts": "Ports setup failure!\nE_PORTS_TAKEN\nThe port is unavailable! (Close any other apps related to owoTrack)",
-    "/Plugins/OWO/Statuses/NotStarted": "Connection error!\nE_NOT_STARTED\nPress the 'Refresh' button to start the server's listener up.",
-    "/Plugins/OWO/Settings/Labels/LocalIP/One": "Your Local IP:",
-    "/Plugins/OWO/Settings/Labels/LocalIP/Multiple": "Your Local IP: (One of)",
-    "/Plugins/OWO/Settings/Labels/Port": "Connection Port:",
-    "/Plugins/OWO/Settings/Labels/HipHeight": "Waist Height:",
-    "/Plugins/OWO/Settings/Notices/NotStarted": "Please start the server first!",
-    "/Plugins/OWO/Settings/Notices/NotConnected": "Please connect your phone!",
-    "/Plugins/OWO/Settings/Notices/Still": "Please stay like that a bit...",
-    "/Plugins/OWO/Settings/Notices/Failure": "Server has failed to start up!",
-    "/Plugins/OWO/Settings/Instructions/Forward": "Hold your phone in the same direction\nas your VR headset orientation, screen facing up...",
-    "/Plugins/OWO/Settings/Instructions/Down": "Attach your phone to your waist now,\nstand straight in your natural forward position...",
-    "/Plugins/OWO/Settings/Buttons/Calibration/Forward": "Calibrate Forward",
-    "/Plugins/OWO/Settings/Buttons/Calibration/Down": "Calibrate Down"
+  "language": "en",
+  "messages": [
+    {
+      "id": "/Plugins/OWO/Statuses/Success",
+      "translation": "Success!\nS_OK\nEverything's good!"
+    },
+    {
+      "id": "/Plugins/OWO/Statuses/ConnectionDead",
+      "translation": "Connection error!\nE_CONNECTION_DEAD\nCheck if owoTrackVR app is running, working and connected."
+    },
+    {
+      "id": "/Plugins/OWO/Statuses/NoData",
+      "translation": "Connection error!\nE_NO_DATA\nCheck if owoTrackVR app is running, working and connected."
+    },
+    {
+      "id": "/Plugins/OWO/Statuses/InitFailure",
+      "translation": "Listener startup fail!\nE_INIT_FAILED\nThe data server failed to start, check logs and port number."
+    },
+    {
+      "id": "/Plugins/OWO/Statuses/NoPorts",
+      "translation": "Ports setup failure!\nE_PORTS_TAKEN\nThe port is unavailable! (Close any other apps related to owoTrack)"
+    },
+    {
+      "id": "/Plugins/OWO/Statuses/NotStarted",
+      "translation": "Connection error!\nE_NOT_STARTED\nPress the 'Refresh' button to start the server's listener up."
+    },
+    {
+      "id": "/Plugins/OWO/Settings/Labels/LocalIP/One",
+      "translation": "Your Local IP:"
+    },
+    {
+      "id": "/Plugins/OWO/Settings/Labels/LocalIP/Multiple",
+      "translation": "Your Local IP: (One of)"
+    },
+    {
+      "id": "/Plugins/OWO/Settings/Labels/Port",
+      "translation": "Connection Port:"
+    },
+    {
+      "id": "/Plugins/OWO/Settings/Labels/HipHeight",
+      "translation": "Waist Height:"
+    },
+    {
+      "id": "/Plugins/OWO/Settings/Notices/NotStarted",
+      "translation": "Please start the server first!"
+    },
+    {
+      "id": "/Plugins/OWO/Settings/Notices/NotConnected",
+      "translation": "Please connect your phone!"
+    },
+    {
+      "id": "/Plugins/OWO/Settings/Notices/Still",
+      "translation": "Please stay like that a bit..."
+    },
+    {
+      "id": "/Plugins/OWO/Settings/Notices/Failure",
+      "translation": "Server has failed to start up!"
+    },
+    {
+      "id": "/Plugins/OWO/Settings/Instructions/Forward",
+      "translation": "Hold your phone in the same direction\nas your VR headset orientation, screen facing up..."
+    },
+    {
+      "id": "/Plugins/OWO/Settings/Instructions/Down",
+      "translation": "Attach your phone to your waist now,\nstand straight in your natural forward position..."
+    },
+    {
+      "id": "/Plugins/OWO/Settings/Buttons/Calibration/Forward",
+      "translation": "Calibrate Forward"
+    },
+    {
+      "id": "/Plugins/OWO/Settings/Buttons/Calibration/Down",
+      "translation": "Calibrate Down"
+    }
+  ]
 }

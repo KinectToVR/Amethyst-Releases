@@ -1,11 +1,41 @@
 {
-  "/Plugins/KinectV1/Statuses/Success": "Succès!\nS_OK\nTout fonctionne!",
-  "/Plugins/KinectV1/Statuses/Initializing": "INITIALIZING\nS_NUI_INITIALIZING\nL'appareil est connecté, mais encore en initialisation.",
-  "/Plugins/KinectV1/Statuses/NotConnected": "NOTCONNECTED\nE_NUI_NOTCONNECTED\nL'appareil n'est pas connecté.",
-  "/Plugins/KinectV1/Statuses/NotGenuine": "NOTGENUINE\nE_NUI_NOTGENUINE\nLe SDK reporte la Kinect comme étant invalide.",
-  "/Plugins/KinectV1/Statuses/NotSupported": "NOTSUPPORTED\nE_NUI_NOTSUPPORTED\nL'appareil n'est pas supporté. (Kinect pour Xbox requiert le SDK)",
-  "/Plugins/KinectV1/Statuses/InsufficientBandwidth": "INSUFFICIENTBANDWIDTH\nE_NUI_INSUFFICIENTBANDWIDTH\nL'appareil est connecté a un hub qui n'offre pas pas la bande passante nécessaire.",
-  "/Plugins/KinectV1/Statuses/NotPowered": "NOTPOWERED\nE_NUI_NOTPOWERED\nIl y a un problème soit avec votre adaptateur/cables, ou avec les pilotes de la Kinect dans Windows.",
-  "/Plugins/KinectV1/Statuses/NotReady": "NOTREADY\nE_NUI_NOTREADY\nUne erreur non spécifiée est survenue.",
-  "/Plugins/KinectV1/Settings/Labels/Angle": "Angle d'élévation de Kinect:"
+  "language": "fr",
+  "messages": [
+    {
+      "id": "/Plugins/KinectV1/Statuses/Success",
+      "translation": "Succès!\nS_OK\nTout fonctionne!"
+    },
+    {
+      "id": "/Plugins/KinectV1/Statuses/Initializing",
+      "translation": "INITIALIZING\nS_NUI_INITIALIZING\nL'appareil est connecté, mais encore en initialisation."
+    },
+    {
+      "id": "/Plugins/KinectV1/Statuses/NotConnected",
+      "translation": "NOTCONNECTED\nE_NUI_NOTCONNECTED\nL'appareil n'est pas connecté."
+    },
+    {
+      "id": "/Plugins/KinectV1/Statuses/NotGenuine",
+      "translation": "NOTGENUINE\nE_NUI_NOTGENUINE\nLe SDK reporte la Kinect comme étant invalide."
+    },
+    {
+      "id": "/Plugins/KinectV1/Statuses/NotSupported",
+      "translation": "NOTSUPPORTED\nE_NUI_NOTSUPPORTED\nL'appareil n'est pas supporté. (Kinect pour Xbox requiert le SDK)"
+    },
+    {
+      "id": "/Plugins/KinectV1/Statuses/InsufficientBandwidth",
+      "translation": "INSUFFICIENTBANDWIDTH\nE_NUI_INSUFFICIENTBANDWIDTH\nL'appareil est connecté a un hub qui n'offre pas pas la bande passante nécessaire."
+    },
+    {
+      "id": "/Plugins/KinectV1/Statuses/NotPowered",
+      "translation": "NOTPOWERED\nE_NUI_NOTPOWERED\nIl y a un problème soit avec votre adaptateur/cables, ou avec les pilotes de la Kinect dans Windows."
+    },
+    {
+      "id": "/Plugins/KinectV1/Statuses/NotReady",
+      "translation": "NOTREADY\nE_NUI_NOTREADY\nUne erreur non spécifiée est survenue."
+    },
+    {
+      "id": "/Plugins/KinectV1/Settings/Labels/Angle",
+      "translation": "Angle d'élévation de Kinect:"
+    }
+  ]
 }

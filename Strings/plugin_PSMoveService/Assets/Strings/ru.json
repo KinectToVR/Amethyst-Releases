@@ -1,8 +1,29 @@
 {
-  "/Plugins/PSMS/Statuses/Success": "Успешно!\nS_OK\nВсе работает!",
-  "/Plugins/PSMS/Statuses/NotConnected": "Client connection error!\nE_PSMS_NOT_CONNECTED\nCheck if PSMoveService is running, working and accessible by clients.",
-  "/Plugins/PSMS/Statuses/NotRunning": "API connection error!\nE_PSMS_NOT_INITIALIZED\nCheck if PSMoveService is running, working and accessible by clients.",
-  "/Plugins/PSMS/Statuses/NoJoints": "Контроллеры не найдены!\nE_PSMS_NO_JOINTS\nПроверьте, подключены ли какие-либо контроллеры, и работает ли PSMoveService.",
-  "/Plugins/PSMS/Settings/Contents/Dim": "Если вы используете PSMS только для отслеживания вращения, вы можете уменьшить яркость светодиодных индикаторов контроллера для экономии энергии.",
-  "/Plugins/PSMS/Settings/Labels/Dim": "Приглушите свет PSMS:"
+  "language": "ru",
+  "messages": [
+    {
+      "id": "/Plugins/PSMS/Statuses/Success",
+      "translation": "Успешно!\nS_OK\nВсе работает!"
+    },
+    {
+      "id": "/Plugins/PSMS/Statuses/NotConnected",
+      "translation": "Client connection error!\nE_PSMS_NOT_CONNECTED\nCheck if PSMoveService is running, working and accessible by clients."
+    },
+    {
+      "id": "/Plugins/PSMS/Statuses/NotRunning",
+      "translation": "API connection error!\nE_PSMS_NOT_INITIALIZED\nCheck if PSMoveService is running, working and accessible by clients."
+    },
+    {
+      "id": "/Plugins/PSMS/Statuses/NoJoints",
+      "translation": "Контроллеры не найдены!\nE_PSMS_NO_JOINTS\nПроверьте, подключены ли какие-либо контроллеры, и работает ли PSMoveService."
+    },
+    {
+      "id": "/Plugins/PSMS/Settings/Contents/Dim",
+      "translation": "Если вы используете PSMS только для отслеживания вращения, вы можете уменьшить яркость светодиодных индикаторов контроллера для экономии энергии."
+    },
+    {
+      "id": "/Plugins/PSMS/Settings/Labels/Dim",
+      "translation": "Приглушите свет PSMS:"
+    }
+  ]
 }

@@ -1,20 +1,77 @@
 {
-    "/Plugins/OWO/Statuses/Success": "Успешно!\nS_OK\nВсе работает!",
-    "/Plugins/OWO/Statuses/ConnectionDead": "Ошибка подключения!\nE_CONNECTION_DEAD\nУбедитесь, что приложение owoTrackVR работает и подключено.",
-    "/Plugins/OWO/Statuses/NoData": "Ошибка подключения!\nE_NO_DATA\nУбедитесь, что приложение owoTrackVR работает и подключено.",
-    "/Plugins/OWO/Statuses/InitFailure": "Ошибка запуска сервера!\nE_INIT_FAILED\nНе удалось запустить сервер, проверьте журнал событий и номер порта.",
-    "/Plugins/OWO/Statuses/NoPorts": "Сбой настройки портов!\nE_PORTS_TAKEN\nПорт недоступен! (Закройте все другие приложения, связанные с owoTrack)",
-    "/Plugins/OWO/Statuses/NotStarted": "Ошибка подключения!\nE_NOT_STARTED\nНажмите кнопку \"Обновить\" для запуска сервера.",
-    "/Plugins/OWO/Settings/Labels/LocalIP/One": "Ваш локальный IP:",
-    "/Plugins/OWO/Settings/Labels/LocalIP/Multiple": "Ваш локальный IP: (один из)",
-    "/Plugins/OWO/Settings/Labels/Port": "Порт подключения:",
-    "/Plugins/OWO/Settings/Labels/HipHeight": "Высота талии:",
-    "/Plugins/OWO/Settings/Notices/NotStarted": "Пожалуйста, сначала запустите сервер!",
-    "/Plugins/OWO/Settings/Notices/NotConnected": "Пожалуйста, подключите ваш телефон!",
-    "/Plugins/OWO/Settings/Notices/Still": "Пожалуйста, постойте так немного...",
-    "/Plugins/OWO/Settings/Notices/Failure": "Серверу не удалось запуститься!",
-    "/Plugins/OWO/Settings/Instructions/Forward": "Держите телефон в том же направлении,\nчто и ориентация гарнитуры VR, экраном вверх...",
-    "/Plugins/OWO/Settings/Instructions/Down": "Теперь прикрепите телефон к талии,\nвстаньте прямо в естественном положении вперед...",
-    "/Plugins/OWO/Settings/Buttons/Calibration/Forward": "Калибровка вперед",
-    "/Plugins/OWO/Settings/Buttons/Calibration/Down": "Калибровка вниз"
+  "language": "ru",
+  "messages": [
+    {
+      "id": "/Plugins/OWO/Statuses/Success",
+      "translation": "Успешно!\nS_OK\nВсе работает!"
+    },
+    {
+      "id": "/Plugins/OWO/Statuses/ConnectionDead",
+      "translation": "Ошибка подключения!\nE_CONNECTION_DEAD\nУбедитесь, что приложение owoTrackVR работает и подключено."
+    },
+    {
+      "id": "/Plugins/OWO/Statuses/NoData",
+      "translation": "Ошибка подключения!\nE_NO_DATA\nУбедитесь, что приложение owoTrackVR работает и подключено."
+    },
+    {
+      "id": "/Plugins/OWO/Statuses/InitFailure",
+      "translation": "Ошибка запуска сервера!\nE_INIT_FAILED\nНе удалось запустить сервер, проверьте журнал событий и номер порта."
+    },
+    {
+      "id": "/Plugins/OWO/Statuses/NoPorts",
+      "translation": "Сбой настройки портов!\nE_PORTS_TAKEN\nПорт недоступен! (Закройте все другие приложения, связанные с owoTrack)"
+    },
+    {
+      "id": "/Plugins/OWO/Statuses/NotStarted",
+      "translation": "Ошибка подключения!\nE_NOT_STARTED\nНажмите кнопку \"Обновить\" для запуска сервера."
+    },
+    {
+      "id": "/Plugins/OWO/Settings/Labels/LocalIP/One",
+      "translation": "Ваш локальный IP:"
+    },
+    {
+      "id": "/Plugins/OWO/Settings/Labels/LocalIP/Multiple",
+      "translation": "Ваш локальный IP: (один из)"
+    },
+    {
+      "id": "/Plugins/OWO/Settings/Labels/Port",
+      "translation": "Порт подключения:"
+    },
+    {
+      "id": "/Plugins/OWO/Settings/Labels/HipHeight",
+      "translation": "Высота талии:"
+    },
+    {
+      "id": "/Plugins/OWO/Settings/Notices/NotStarted",
+      "translation": "Пожалуйста, сначала запустите сервер!"
+    },
+    {
+      "id": "/Plugins/OWO/Settings/Notices/NotConnected",
+      "translation": "Пожалуйста, подключите ваш телефон!"
+    },
+    {
+      "id": "/Plugins/OWO/Settings/Notices/Still",
+      "translation": "Пожалуйста, постойте так немного..."
+    },
+    {
+      "id": "/Plugins/OWO/Settings/Notices/Failure",
+      "translation": "Серверу не удалось запуститься!"
+    },
+    {
+      "id": "/Plugins/OWO/Settings/Instructions/Forward",
+      "translation": "Держите телефон в том же направлении,\nчто и ориентация гарнитуры VR, экраном вверх..."
+    },
+    {
+      "id": "/Plugins/OWO/Settings/Instructions/Down",
+      "translation": "Теперь прикрепите телефон к талии,\nвстаньте прямо в естественном положении вперед..."
+    },
+    {
+      "id": "/Plugins/OWO/Settings/Buttons/Calibration/Forward",
+      "translation": "Калибровка вперед"
+    },
+    {
+      "id": "/Plugins/OWO/Settings/Buttons/Calibration/Down",
+      "translation": "Калибровка вниз"
+    }
+  ]
 }

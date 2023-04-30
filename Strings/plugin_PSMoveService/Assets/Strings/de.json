@@ -1,8 +1,29 @@
 {
-  "/Plugins/PSMS/Statuses/Success": "Erfolg!\nS_OK\nAlles ist gut!",
-  "/Plugins/PSMS/Statuses/NotConnected": "Client connection error!\nE_PSMS_NOT_CONNECTED\nCheck if PSMoveService is running, working and accessible by clients.",
-  "/Plugins/PSMS/Statuses/NotRunning": "API connection error!\nE_PSMS_NOT_INITIALIZED\nCheck if PSMoveService is running, working and accessible by clients.",
-  "/Plugins/PSMS/Statuses/NoJoints": "Keine Controller gefunden!\nE_PSMS_NO_JOINTS\nÜberprüfe, ob Controller angeschlossen sind, und ob PSMoveService funktioniert.",
-  "/Plugins/PSMS/Settings/Contents/Dim": "Sollte PSMS nur für die Rotationsverfolgung verwendet werden, kann man die LED-Leuchten des Controllers dimmen, um Strom zu sparen.",
-  "/Plugins/PSMS/Settings/Labels/Dim": "PSMS-Lichter dimmen:"
+  "language": "de",
+  "messages": [
+    {
+      "id": "/Plugins/PSMS/Statuses/Success",
+      "translation": "Erfolg!\nS_OK\nAlles ist gut!"
+    },
+    {
+      "id": "/Plugins/PSMS/Statuses/NotConnected",
+      "translation": "Client connection error!\nE_PSMS_NOT_CONNECTED\nCheck if PSMoveService is running, working and accessible by clients."
+    },
+    {
+      "id": "/Plugins/PSMS/Statuses/NotRunning",
+      "translation": "API connection error!\nE_PSMS_NOT_INITIALIZED\nCheck if PSMoveService is running, working and accessible by clients."
+    },
+    {
+      "id": "/Plugins/PSMS/Statuses/NoJoints",
+      "translation": "Keine Controller gefunden!\nE_PSMS_NO_JOINTS\nÜberprüfe, ob Controller angeschlossen sind, und ob PSMoveService funktioniert."
+    },
+    {
+      "id": "/Plugins/PSMS/Settings/Contents/Dim",
+      "translation": "Sollte PSMS nur für die Rotationsverfolgung verwendet werden, kann man die LED-Leuchten des Controllers dimmen, um Strom zu sparen."
+    },
+    {
+      "id": "/Plugins/PSMS/Settings/Labels/Dim",
+      "translation": "PSMS-Lichter dimmen:"
+    }
+  ]
 }
