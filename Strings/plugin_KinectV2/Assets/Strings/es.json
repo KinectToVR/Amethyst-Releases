@@ -1,0 +1,13 @@
+{
+  "language": "es",
+  "messages": [
+    {
+      "id": "/Plugins/KinectV2/Statuses/Success",
+      "translation": "¡Listo!\nS_OK\n¡Todo correcto!"
+    },
+    {
+      "id": "/Plugins/KinectV2/Statuses/NotAvailable",
+      "translation": "¡Sensor no disponible!\nE_NOTAVAILABLE\nComprueba que el Kinect One está conectado a un USB 3.0 de tu PC y a la fuente de alimentación."
+    }
+  ]
+}

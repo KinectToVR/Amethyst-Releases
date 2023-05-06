@@ -3,24 +3,35 @@
         "en": "English",
         "fr": "French",
         "de": "German",
-        "ru": "Russian"
+        "ru": "Russian",
+        "es": "Spanish"
     },
     "fr": {
         "en": "Anglais",
         "fr": "Français",
         "de": "Allemand",
-        "ru": "Russe"
+        "ru": "Russe",
+        "es": "Espagnol"
     },
     "de": {
         "en": "Englisch",
         "fr": "Französisch",
         "de": "Deutsch",
-        "ru": "Russisch"
+        "ru": "Russisch",
+        "es": "Spanisch"
     },
     "ru": {
         "en": "Английский",
         "fr": "Французский",
         "de": "Немецкий",
-        "ru": "Русский"
+        "ru": "Русский",
+        "es": "испанский"
+    },
+    "es": {
+        "en": "Inglés",
+        "fr": "Francés",
+        "de": "Alemán",
+        "ru": "Ruso",
+        "es": "Español"
     }
 }

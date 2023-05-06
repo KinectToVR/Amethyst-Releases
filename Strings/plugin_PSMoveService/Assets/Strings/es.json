@@ -1,0 +1,29 @@
+{
+  "language": "es",
+  "messages": [
+    {
+      "id": "/Plugins/PSMS/Statuses/Success",
+      "translation": "¡Listo!\nS_OK\n¡Todo correcto!"
+    },
+    {
+      "id": "/Plugins/PSMS/Statuses/NotConnected",
+      "translation": "¡Error de conexión del cliente!\nE_PSMS_NOT_CONNECTED\nComprueba que PSMoveService está iniciado, funcional y accesible por los clientes."
+    },
+    {
+      "id": "/Plugins/PSMS/Statuses/NotRunning",
+      "translation": "¡Error de conexión en la API!\nE_PSMS_NOT_INITIALIZED\nComprueba que PSMoveService está iniciado, funcional y accesible por los clientes."
+    },
+    {
+      "id": "/Plugins/PSMS/Statuses/NoJoints",
+      "translation": "¡No se han encontrado mandos VR!\nE_PSMS_NO_JOINTS\nComprueba que los mandos esten conectados y que PSMoveService esté funcionando correctamente."
+    },
+    {
+      "id": "/Plugins/PSMS/Settings/Contents/Dim",
+      "translation": "Si estas usando PSMS unicamente para rastrear la rotación, puedes reducir las luces LED de los mandos para reducir el consumo de energía."
+    },
+    {
+      "id": "/Plugins/PSMS/Settings/Labels/Dim",
+      "translation": "Atenuar luces PSMS:"
+    }
+  ]
+}
