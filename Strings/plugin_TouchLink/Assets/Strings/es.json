@@ -1,0 +1,29 @@
+{
+  "language": "es",
+  "messages": [
+    {
+      "id": "/Plugins/TouchLink/Statuses/NotStarted",
+      "translation": "¡Todabía no se ha iniciado!\nE_NOT_STARTED\n¡Haz clic en 'Actualizar' para inicializar el dispositivo!"
+    },
+    {
+      "id": "/Plugins/TouchLink/Statuses/Success",
+      "translation": "¡Listo!\nS_OK\n¡Todo correcto!"
+    },
+    {
+      "id": "/Plugins/TouchLink/Statuses/InitFailure",
+      "translation": "¡Fallo de inicio!\nE_INIT_FAILURE\n¡Asegurate que tu visor Oculus está conectado y el panel está iniciado!"
+    },
+    {
+      "id": "/Plugins/TouchLink/Settings/Labels/Prediction",
+      "translation": "Predicción adiciónal [ms]:"
+    },
+    {
+      "id": "/Plugins/TouchLink/Settings/Labels/KeepAlive",
+      "translation": "Mantener iniciado Oculus:"
+    },
+    {
+      "id": "/Plugins/TouchLink/Settings/Labels/ReduceRes",
+      "translation": "Reducir resolución:"
+    }
+  ]
+}

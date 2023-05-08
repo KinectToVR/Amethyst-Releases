@@ -1,0 +1,41 @@
+{
+  "language": "es",
+  "messages": [
+    {
+      "id": "/Plugins/KinectV1/Statuses/Success",
+      "translation": "¡Listo!\nS_OK\n¡Todo correcto!"
+    },
+    {
+      "id": "/Plugins/KinectV1/Statuses/Initializing",
+      "translation": "INITIALIZING\nS_NUI_INITIALIZING\nEl dispositivo está conectado e iniciandose..."
+    },
+    {
+      "id": "/Plugins/KinectV1/Statuses/NotConnected",
+      "translation": "NOTCONNECTED\nE_NUI_NOTCONNECTED\nEl dispositivo no está conectado."
+    },
+    {
+      "id": "/Plugins/KinectV1/Statuses/NotGenuine",
+      "translation": "NOTGENUINE\nE_NUI_NOTGENUINE\nEl SDK está marcando el Kinect como invalido."
+    },
+    {
+      "id": "/Plugins/KinectV1/Statuses/NotSupported",
+      "translation": "NOTSUPPORTED\nE_NUI_NOTSUPPORTED\nEl dispositivo no está disponible. (Xbox Kinect necesita tener intalado el SDK)"
+    },
+    {
+      "id": "/Plugins/KinectV1/Statuses/InsufficientBandwidth",
+      "translation": "INSUFFICIENTBANDWIDTH\nE_NUI_INSUFFICIENTBANDWIDTH\nEl dispositivo está conectado a un adaptador o puerto USB que no tiene suficiente ancho de banda para los datos."
+    },
+    {
+      "id": "/Plugins/KinectV1/Statuses/NotPowered",
+      "translation": "NOTPOWERED\nE_NUI_NOTPOWERED\nComprueba que la conexión de tus cables sea correcta. También es posible que el driver de Kinect no esté instalado y registrado en Windows."
+    },
+    {
+      "id": "/Plugins/KinectV1/Statuses/NotReady",
+      "translation": "NOTREADY\nE_NUI_NOTREADY\nHa ocurrido un error inesperado."
+    },
+    {
+      "id": "/Plugins/KinectV1/Settings/Labels/Angle",
+      "translation": "Ángulo de inclinación del Kinect:"
+    }
+  ]
+}
