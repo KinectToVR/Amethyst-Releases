@@ -1,0 +1,182 @@
+{
+  "language": "en",
+  "messages": [
+    {
+      "id": "/GeneralPage/Tips/TrackingFreeze/Buttons/Index",
+      "translation": "B, Grip and Trigger"
+    },
+    {
+      "id": "/GeneralPage/Tips/TrackingFreeze/Buttons/Oculus",
+      "translation": "X, Grip and Trigger"
+    },
+    {
+      "id": "/GeneralPage/Tips/TrackingFreeze/Buttons/VIVE",
+      "translation": "the Touchpad, Grip and Trigger"
+    },
+    {
+      "id": "/GeneralPage/Tips/TrackingFreeze/Buttons/WMR",
+      "translation": "the Menu Button, Grip and Trigger"
+    },
+    {
+      "id": "/GeneralPage/Tips/TrackingFreeze/Footer",
+      "translation": "This binding can be changed within SteamVR input settings."
+    },
+    {
+      "id": "/GeneralPage/Tips/TrackingFreeze/Header",
+      "translation": "You can also toggle tracker freeze while in VR! \nPress {0} on your left controller."
+    },
+    {
+      "id": "/SettingsPage/Buttons/ReManifest",
+      "translation": "Reinstall SteamVR manifests"
+    },
+    {
+      "id": "/SettingsPage/Buttons/ReRegister",
+      "translation": "Re-register SteamVR driver entry"
+    },
+    {
+      "id": "/SettingsPage/ReManifest/Error/NotFound",
+      "translation": "Amethyst vr manifest couldn't be installed.\nIs it even somewhere around here...?"
+    },
+    {
+      "id": "/SettingsPage/ReManifest/Error/Other",
+      "translation": "Amethyst vr manifest couldn't be installed.\nPlease check SteamVR logs and consider reporting it."
+    },
+    {
+      "id": "/SettingsPage/Tips/FlipToggle/Buttons/Index",
+      "translation": "B, Grip and Trigger"
+    },
+    {
+      "id": "/SettingsPage/Tips/FlipToggle/Buttons/Oculus",
+      "translation": "A, Grip and Trigger"
+    },
+    {
+      "id": "/SettingsPage/Tips/FlipToggle/Buttons/VIVE",
+      "translation": "the Touchpad, Grip and Trigger"
+    },
+    {
+      "id": "/SettingsPage/Tips/FlipToggle/Buttons/WMR",
+      "translation": "the Menu Button, Grip and Trigger"
+    },
+    {
+      "id": "/SettingsPage/Tips/FlipToggle/Footer",
+      "translation": "This binding can be changed within SteamVR input settings."
+    },
+    {
+      "id": "/SettingsPage/Tips/FlipToggle/Header",
+      "translation": "You can also toggle skeleton flip while in VR! \nPress {0} on your right controller."
+    },
+    {
+      "id": "/ServerStatuses/WTF",
+      "translation": "COULD NOT CHECK STATUS (ᗜˬᗜ)\nE_WTF\nSomething's fucked a really big time."
+    },
+    {
+      "id": "/ServerStatuses/Success",
+      "translation": "Success! (Code {0})\nI_OK\nEverything's good!"
+    },
+    {
+      "id": "/ServerStatuses/OpenVRError",
+      "translation": "OPENVR INIT ERROR (Code {0})\nE_OVRINIT_ERROR\nCheck if SteamVR is running, and your VR headset is connected properly to it, and click 'Refresh' to check again. Additionally, you can restart SteamVR and check its logs.",
+      "translatorComment": "[Refresh] as in the refresh button, /DevicesPage/Buttons/Reconnect @Amethyst, make sure it's the same string!"
+    },
+    {
+      "id": "/ServerStatuses/OpenVRElevatedError",
+      "translation": "OPENVR ELEVATED (Code {0})\nE_VRSERVER_RUNAS\nAmethyst can't communicate with the OpenVR API if SteamVR is running with administrator privileges, please start it normally. Optionally, you can run Amethyst as administrator too, to suppress this specific error."
+    },
+    {
+      "id": "/ServerStatuses/AmethystElevatedError",
+      "translation": "AMETHYST ELEVATED (Code {0})\nE_AMETHYST_RUNAS\nAmethyst is running with admin rights, please start it normally. Amethyst can't communicate with the OpenVR API whenever running with administrator privileges."
+    },
+    {
+      "id": "/ServerStatuses/IVRInputError",
+      "translation": "OPENVR ACTIONS ERROR (Code {0})\nE_IVRINPUT_ERROR\nCheck if SteamVR is working properly, and your VR controllers are present in it. Additionally, you can restart SteamVR and check its logs."
+    },
+    {
+      "id": "/ServerStatuses/ConnectionError",
+      "translation": "SERVER CONNECTION ERROR (Code {0})\nE_CONNECTION_ERROR\nCheck SteamVR add-ons (NOT overlays) and enable Amethyst. You can also try re-registering the driver entry from SteamVR service settings within Amethyst."
+    },
+    {
+      "id": "/ServerStatuses/RPCChannelFailure",
+      "translation": "RPC CHANNEL FAILURE (Code {0})\nE_RPC_CHAN_FAILURE\nCould not connect to the the RPC channel because it was null. Please restart, check logs and write to us on Discord."
+    },
+    {
+      "id": "/ServerStatuses/Exception",
+      "translation": "EXCEPTION WHILE CHECKING (Code {0})\nE_EXCEPTION_WHILE_CHECKING\nThere was an exception starting the RPC server: {1}"
+    },
+    {
+      "id": "/ServerStatuses/ServerFailure",
+      "translation": "FATAL SERVER FAILURE (Code {0})\nE_FATAL_SERVER_FAILURE\nPlease restart, check logs and write to us on Discord."
+    },
+    {
+      "id": "/CrashHandler/ReRegister/DriverNotFound",
+      "translation": "The Amethyst Driver folder wasn't found.\nIs it even somewhere around here...?"
+    },
+    {
+      "id": "/CrashHandler/ReRegister/ExistingDrivers/Content",
+      "translation": "One or more drivers named 'Amethyst'\nalready exist, remove them now?"
+    },
+    {
+      "id": "/CrashHandler/ReRegister/ExistingDrivers/Content_K2EX",
+      "translation": "A copy of the K2EX SteamVR driver was found.\nIt is incompatible with Amethyst and needs to be removed.\nDo it now?"
+    },
+    {
+      "id": "/CrashHandler/ReRegister/ExistingDrivers/PrimaryButton",
+      "translation": "Remove"
+    },
+    {
+      "id": "/CrashHandler/ReRegister/ExistingDrivers/PrimaryButton_K2EX",
+      "translation": "Remove"
+    },
+    {
+      "id": "/CrashHandler/ReRegister/ExistingDrivers/SecondaryButton",
+      "translation": "Abort"
+    },
+    {
+      "id": "/CrashHandler/ReRegister/ExistingDrivers/SecondaryButton_K2EX",
+      "translation": "Abort"
+    },
+    {
+      "id": "/CrashHandler/ReRegister/FatalRegisterException",
+      "translation": "Couldn't register Amethyst Driver,\na fatal exception occurred."
+    },
+    {
+      "id": "/CrashHandler/ReRegister/FatalRemoveException",
+      "translation": "Couldn't remove Amethyst Driver,\na fatal exception occurred."
+    },
+    {
+      "id": "/CrashHandler/ReRegister/FatalRemoveException_K2EX",
+      "translation": "Couldn't remove the K2EX SteamVR driver,\na fatal exception occurred."
+    },
+    {
+      "id": "/CrashHandler/ReRegister/Elevation",
+      "translation": "Amethyst won't be able to kill the SteamVR process\nbecause it's running with administrator privileges.\nPlease force close SteamVR manually and try again."
+    },
+    {
+      "id": "/CrashHandler/ReRegister/Finished",
+      "translation": "You're good to go!"
+    },
+    {
+      "id": "/CrashHandler/ReRegister/KillSteamVR/Content",
+      "translation": "SteamVR needs to be shut down\nto register properly, kill it now?"
+    },
+    {
+      "id": "/CrashHandler/ReRegister/KillSteamVR/PrimaryButton",
+      "translation": "Kill"
+    },
+    {
+      "id": "/CrashHandler/ReRegister/KillSteamVR/SecondaryButton",
+      "translation": "Abort"
+    },
+    {
+      "id": "/CrashHandler/ReRegister/OpenVRPathsError",
+      "translation": "OpenVRPaths couldn't be read!\nMake sure it's not corrupted,\nand run SteamVR at least once."
+    },
+    {
+      "id": "/CrashHandler/ReRegister/OpenVRPathsWriteError",
+      "translation": "Couldn't register Amethyst Driver,\nopenvrpaths write error."
+    },
+    {
+      "id": "/CrashHandler/ReRegister/SteamVRNotFound",
+      "translation": "SteamVR couldn't be found,\nmake sure it's installed."
+    }
+  ]
+}

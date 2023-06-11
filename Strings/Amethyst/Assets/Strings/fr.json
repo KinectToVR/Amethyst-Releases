@@ -479,7 +479,7 @@
     },
     {
       "id": "/SettingsPage/Filters/Managed",
-      "translation": "Managed by '{0}'"
+      "translation": "Managed by {0}"
     },
     {
       "id": "/SettingsPage/ReManifest/Error/NotFound",
@@ -946,10 +946,6 @@
       "translation": "Développement de l'installateur:"
     },
     {
-      "id": "/InfoPage/Credits/MainTeam/Roles/Ollie",
-      "translation": "Support:"
-    },
-    {
       "id": "/InfoPage/Credits/MainTeam/Title",
       "translation": "Équipe principale:"
     },
@@ -1254,6 +1250,10 @@
       "translation": "Téléchargement - 0%"
     },
     {
+      "id": "/SharedStrings/Updates/Statuses/DownloadingNoProgress",
+      "translation": "Téléchargement..."
+    },
+    {
       "id": "/SharedStrings/Updates/Statuses/Error",
       "translation": "Erreur de téléchargement !"
     },
@@ -1507,7 +1507,7 @@
     },
     {
       "id": "/CrashHandler/Content/Recovery",
-      "translation": "Vous avez lancé le Crash Handler manuellement, que voulez-vous faire?\n\nSi l'extension SteamVR pour Amethyst n'est pas détectée correctement, vous pouvez la ré-inscrire dans la liste (bouton ci-dessous) et essayer à nouveau."
+      "translation": "Il semble que vous ayez lancé manuellement le Crash Handler. Que vouliez-vous faire?\n\nPendant que vous êtes encore ici, pensez à faire un don à notre OpenCollective, pour que nous puissions continuer à faire fonctionner tout ça. Oh, et merci d'utiliser Amethyst!"
     },
     {
       "id": "/CrashHandler/PrimaryButton/AlreadyRunning",
@@ -1527,7 +1527,7 @@
     },
     {
       "id": "/CrashHandler/PrimaryButton/Recovery",
-      "translation": "Ré-inscrire l'extension"
+      "translation": "OpenCollective"
     },
     {
       "id": "/CrashHandler/ReRegister/DriverNotFound",
@@ -1715,7 +1715,7 @@
     },
     {
       "id": "/NUX/Tip9/Content",
-      "translation": "Check the the status of devices and change per-device settings.\nErrors will show up here.\n\n9 of 14"
+      "translation": "Check the status of devices and change per-device settings.\nErrors will show up here.\n\n9 of 14"
     },
     {
       "id": "/NUX/Tip10/Title",

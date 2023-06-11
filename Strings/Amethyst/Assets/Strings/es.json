@@ -95,7 +95,7 @@
     },
     {
       "id": "/GeneralPage/Calibration/Captions/Move",
-      "translation": "Posición {1} de {2}\nMuevete a otro lugar."
+      "translation": "Posición {0} de {1}\nMuevete a otro lugar."
     },
     {
       "id": "/GeneralPage/Calibration/Captions/Points",
@@ -107,7 +107,7 @@
     },
     {
       "id": "/GeneralPage/Calibration/Captions/Stand",
-      "translation": "Posición {1} de {2}\nMantente quieto!"
+      "translation": "Posición {0} de {1}\nMantente quieto!"
     },
     {
       "id": "/GeneralPage/Calibration/Captions/Start",
@@ -479,7 +479,7 @@
     },
     {
       "id": "/SettingsPage/Filters/Managed",
-      "translation": "Gestionado por '{0}'"
+      "translation": "Gestionado por {0}"
     },
     {
       "id": "/SettingsPage/ReManifest/Error/NotFound",
@@ -946,10 +946,6 @@
       "translation": "Desarrollador del instalador:"
     },
     {
-      "id": "/InfoPage/Credits/MainTeam/Roles/Ollie",
-      "translation": "Soporte:"
-    },
-    {
       "id": "/InfoPage/Credits/MainTeam/Title",
       "translation": "Equipo principal:"
     },
@@ -1254,6 +1250,10 @@
       "translation": "Descargando - 0%"
     },
     {
+      "id": "/SharedStrings/Updates/Statuses/DownloadingNoProgress",
+      "translation": "Descargando..."
+    },
+    {
       "id": "/SharedStrings/Updates/Statuses/Error",
       "translation": "¡Error actualizando Amethyst!"
     },
@@ -1507,7 +1507,7 @@
     },
     {
       "id": "/CrashHandler/Content/Recovery",
-      "translation": "Has iniciado el Crash Hangler de manera manual. ¿Que quieres hacer?\n\nSi el controlador Amethyst para SteamVR no se detecta correctamente, puedes volver a registrarlo (botón de abajo) y volver a intentarlo."
+      "translation": "Parece que has ejecutado manualmente el Crash Handler. ¿Qué querías hacer?\n\nYa que estás aquí, por favor considera hacer una donación a nuestro OpenCollective, para que podamos mantener todo esto en funcionamiento. Ah, ¡y gracias por usar Amethyst!"
     },
     {
       "id": "/CrashHandler/PrimaryButton/AlreadyRunning",
@@ -1527,7 +1527,7 @@
     },
     {
       "id": "/CrashHandler/PrimaryButton/Recovery",
-      "translation": "Re-Registrar controlador"
+      "translation": "OpenCollective"
     },
     {
       "id": "/CrashHandler/ReRegister/DriverNotFound",

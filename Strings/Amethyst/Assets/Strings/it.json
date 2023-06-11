@@ -113,7 +113,7 @@
     },
     {
       "id": "/GeneralPage/Calibration/Captions/Move",
-      "translation": "Posizione {1} di {2}\nMuoviti da un'altra parte",
+      "translation": "Posizione {0} di {1}\nMuoviti da un'altra parte",
       "translatorComment": ""
     },
     {
@@ -128,7 +128,7 @@
     },
     {
       "id": "/GeneralPage/Calibration/Captions/Stand",
-      "translation": "Posizione {1} di {2}\nPer favore non muoverti!",
+      "translation": "Posizione {0} di {1}\nPer favore non muoverti!",
       "translatorComment": ""
     },
     {
@@ -198,7 +198,7 @@
     },
     {
       "id": "/GeneralPage/Calibration/LabelsWhat/Brief/Right",
-      "translation": "Muovi su/giù\\Ruota sull'asse X",
+      "translation": "Muovi su/giù\nRuota sull'asse X",
       "translatorComment": ""
     },
     {
@@ -348,7 +348,7 @@
     },
     {
       "id": "/GeneralPage/Captions/Preview/NoSkeletonText",
-      "translation": "Assicurarsi che il dispositivo funzona correttamente \ne che possa vedere il tuo corpo.",
+      "translation": "Assicurarsi che il dispositivo funzioni correttamente \ne che possa vedere il tuo corpo.",
       "translatorComment": ""
     },
     {
@@ -523,7 +523,7 @@
     },
     {
       "id": "/SettingsPage/Captions/ExtFlip",
-      "translation": "Quando è attivo Amethyst will deciderà se sei voltato di spalle,\ncontrollando il tracker del busto attualmente attivo su SteamVR (se presente)",
+      "translation": "Se attivato Amethyst capirà se sei voltato di spalle tramite i dati di rotazione\ndel tracker del busto attualmente attivo su SteamVR (se presente)",
       "translatorComment": ""
     },
     {
@@ -598,7 +598,7 @@
     },
     {
       "id": "/SettingsPage/Elements/FlipToggle/ToolTip",
-      "translation": "La disattivazione farà smettere ai tracker\\di specchiarsi quando volti le spalle al Kinect.",
+      "translation": "La disattivazione farà smettere ai tracker\ndi specchiarsi quando volti le spalle al Kinect.",
       "translatorComment": ""
     },
     {
@@ -653,7 +653,7 @@
     },
     {
       "id": "/SettingsPage/Filters/Managed",
-      "translation": "Controllato da '{0}'",
+      "translation": "Controllato da {0}",
       "translatorComment": ""
     },
     {
@@ -718,7 +718,7 @@
     },
     {
       "id": "/SettingsPage/Titles/ExtFlip",
-      "translation": "Usa dati del tracker del busto esterno anziché quelli del visore quando rilevato",
+      "translation": "Usa rotazione del tracker esterno del busto anziché quella del visore quando è possibile",
       "translatorComment": ""
     },
     {
@@ -1282,11 +1282,6 @@
       "translatorComment": ""
     },
     {
-      "id": "/InfoPage/Credits/MainTeam/Roles/Ollie",
-      "translation": "Supporto:",
-      "translatorComment": ""
-    },
-    {
       "id": "/InfoPage/Credits/MainTeam/Title",
       "translation": "Squadra Principale:",
       "translatorComment": ""
@@ -1582,6 +1577,11 @@
       "translatorComment": ""
     },
     {
+      "id": "/SharedStrings/Updates/Statuses/DownloadingNoProgress",
+      "translation": "Download...",
+      "translatorComment": ""
+    },
+    {
       "id": "/SharedStrings/Updates/Statuses/Error",
       "translation": "Errore nel download!",
       "translatorComment": ""
@@ -1643,7 +1643,7 @@
     },
     {
       "id": "/CrashHandler/Content/Crash/Unknown",
-      "translation": "Sembra che sia successo qualcosa di strano all'app.\n\nNiente panico, (probabilmente) non è nemmeno colpa tua.\n\nProva a riavviare l'app.\nSe il problema persiste, prendi i log e contattaci su Discord.",
+      "translation": "Sembra che sia successo qualcosa di strano all'app.\n\nNiente panico, (probabilmente) non è nemmeno colpa tua.\n\nProva a riavviare l'app.\nSe il problema persiste, prendi i log e contattaci su\nDiscord.",
       "translatorComment": ""
     },
     {
@@ -1653,7 +1653,7 @@
     },
     {
       "id": "/CrashHandler/Content/Recovery",
-      "translation": "Sembra che hai eseguito manualmente il Gestore dei Crash. Cosa vorresti fare?\n\nSe il driver di Amethyst per SteamVR non viene rilevato correttamente, puoi ri-registrare il driver di SteamVR (bottone sotto) e riprovare.",
+      "translation": "Sembra che abbiate eseguito manualmente il Crash Handler. Cosa volevi fare?\n\nMentre sei ancora qui, considera la possibilità di fare una donazione alla nostra OpenCollective, in modo da poter mantenere tutto questo materiale attivo e funzionante. Oh, e grazie per aver usato Amethyst!",
       "translatorComment": ""
     },
     {
@@ -1678,7 +1678,7 @@
     },
     {
       "id": "/CrashHandler/PrimaryButton/Recovery",
-      "translation": "Ri-Registra Driver",
+      "translation": "OpenCollective",
       "translatorComment": ""
     },
     {

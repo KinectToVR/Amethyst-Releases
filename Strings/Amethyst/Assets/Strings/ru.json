@@ -479,7 +479,7 @@
     },
     {
       "id": "/SettingsPage/Filters/Managed",
-      "translation": "Managed by '{0}'"
+      "translation": "Managed by {0}"
     },
     {
       "id": "/SettingsPage/ReManifest/Error/NotFound",
@@ -946,10 +946,6 @@
       "translation": "Разработка установщика:"
     },
     {
-      "id": "/InfoPage/Credits/MainTeam/Roles/Ollie",
-      "translation": "Поддержка:"
-    },
-    {
       "id": "/InfoPage/Credits/MainTeam/Title",
       "translation": "Главная команда:"
     },
@@ -1254,6 +1250,10 @@
       "translation": "Скачивание - 0%"
     },
     {
+      "id": "/SharedStrings/Updates/Statuses/DownloadingNoProgress",
+      "translation": "Скачивание..."
+    },
+    {
       "id": "/SharedStrings/Updates/Statuses/Error",
       "translation": "Ошибка при скачивании!"
     },
@@ -1507,7 +1507,7 @@
     },
     {
       "id": "/CrashHandler/Content/Recovery",
-      "translation": "Похоже вы вручную запустили Crash Handler (обработчик ошибок). Что вы хотите сделать?\n\nЕсли драйвер Amethyst для SteamVR не обнаруживается должным образом, вы можете перерегистрировать драйвер SteamVR (кнопка ниже) и попробовать снова."
+      "translation": "Похоже, что вы вручную запустили обработчик аварий. Что вы хотели сделать?\n\nПока вы еще здесь, пожалуйста, подумайте о пожертвовании в наш OpenCollective, чтобы мы могли поддерживать все эти вещи в рабочем состоянии. О, и спасибо за использование Amethyst!"
     },
     {
       "id": "/CrashHandler/PrimaryButton/AlreadyRunning",
@@ -1527,7 +1527,7 @@
     },
     {
       "id": "/CrashHandler/PrimaryButton/Recovery",
-      "translation": "Перерегистрировать драйвер"
+      "translation": "OpenCollective"
     },
     {
       "id": "/CrashHandler/ReRegister/DriverNotFound",
@@ -1715,7 +1715,7 @@
     },
     {
       "id": "/NUX/Tip9/Content",
-      "translation": "Check the the status of devices and change per-device settings.\nErrors will show up here.\n\n9 of 14"
+      "translation": "Check the status of devices and change per-device settings.\nErrors will show up here.\n\n9 of 14"
     },
     {
       "id": "/NUX/Tip10/Title",
