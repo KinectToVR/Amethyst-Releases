@@ -1,7 +1,8 @@
 # Amethyst-Releases
-[<img style="width:500px; height:auto;" src="https://user-images.githubusercontent.com/8508676/189486639-7a845f9a-2ac9-4271-a67f-b2c087eaea07.png">](https://github.com/KinectToVR/Amethyst-Installer-Releases/releases/latest/download/Amethyst-Installer.exe)  
-### Click above to download the installer, please just use the installer, please.
-### ([If you can't download/start it](https://download.getaughip.com/bill-gates.png))  
+
+### How do I install or update Amethyst?
+[<img width="290px" src="https://get.microsoft.com/images/en-us%20light.svg">](https://www.microsoft.com/store/apps/9P7R8FGDDGDH)
+
 **Scroll further down for manual instructions.**  
 
 Amethyst is a Windows application for using various devices for body tracking in virtual reality (Specifically in SteamVR). It can be [extended with user-made plugins](https://github.com/KinectToVR/K2TrackingDevice-Samples) to support any device you wish.
@@ -35,21 +36,11 @@ This is a rewrite from the ground up, it is *not* based on KinectToVR/K2EX. It i
 </details>
 </br>
 
-## Setup (ignore if using installer)
-### Pre-requisites (You need these to run the app):
-- Windows 20H2 or newer (+any win11 is fine)
-- Install [VCRedist 2022](https://aka.ms/vs/17/release/vc_redist.x64.exe)
+## Manual setup
 
-### Actually doing the thing:
-
- - **Download Amethyst-Release-XXXXXX.zip** from the [latest release](https://github.com/KinectToVR/Amethyst-Releases/releases/latest).
- - **Create a new folder**, e.g. `C:\Amethyst`
- - **Extract the ZIP** into that new folder.  
-   *In the case of the example folder, you would end up with `C:\Amethyst\Amethyst.exe`*
- - Once Amethyst is launched, Click re-register SteamVR driver and follow the prompts.
- -  ![ezgif-4-5e11deefe7](https://user-images.githubusercontent.com/50022719/230727961-75900c17-e65a-4c87-b653-a90af395d759.gif)
-
-### It's unsupported but please help me anyway!!!
+If the Microsoft Store isn't available for you, for some reason:
+ - **Download 11835K2VRTeam.Amethyst_[...]_.Msix** from the [latest release](https://github.com/KinectToVR/Amethyst-Releases/releases/latest).
+ - **You're good to go!** Just go through the setup and start playing!
 
 #### My SteamVR gives me Error 203 and won't start no matter what I do.
 You have the Amethyst and K2EX drivers **enabled at the same time**.  
@@ -64,8 +55,5 @@ See just below on how to report bugs.
 
 ### Reports: 
 - <ins>Record the issue</ins> (or at least describe it as well as you can)
-- Send us the log files from ```%AppData%/Amethyst/logs```
-
-### Source:
-In the current app's state, I've decided to hide the source until the app comes finished.<br>
-If you really want it for some reason though, please write to us on the K2VR discord.
+- Run `amethyst-app:report` to collect all relevant files, just copy or drag-and-drop to share
+- In case of SteamVR errors, log files from ```%AppData%/Amethyst/logs``` might be needed too
